@@ -1,10 +1,4 @@
-# AI-Based Gesture Controlled Human Computer Interaction System Using Computer Vision and MediaPipe
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, distribute, and share this project with proper attribution.
-
----
+# 🚀 AI-Based Gesture Controlled Human Computer Interaction System Using Computer Vision and MediaPipe
 
 ## Overview
 
@@ -135,4 +129,5 @@ The system successfully performs real-time gesture recognition and executes brig
 This project demonstrates the practical use of Artificial Intelligence, Computer Vision, and Human Computer Interaction techniques to build an effective touchless computer control system.
 
 📄 License
+
 This application is open-source software distributed under the MIT License.
